@@ -1,2 +1,2 @@
-# Kirsten Wilsn
+# Kirsten Wilson
 ## My Firt Repo
